@@ -9,7 +9,7 @@ import javafx.application.Application;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
-
+// Class HouseBuilder extends Application
 public class HouseBuilder extends Application{
 
     HouseArea house;
