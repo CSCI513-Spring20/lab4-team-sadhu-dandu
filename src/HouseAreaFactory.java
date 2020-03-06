@@ -1,5 +1,8 @@
+// Class HouseAreaFactory extends the HouseFactory class
 public class HouseAreaFactory  extends HouseFactory{
+//     create method is of type houseentity type
     public HouseEntity create(String item)
+        
     {
         if (item.equals("House")) return new HouseArea("House");
         else if (item.equals("Kitchen")) return new HouseArea("Kitchen");
