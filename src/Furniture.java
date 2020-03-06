@@ -1,4 +1,5 @@
 import java.io.Serializable;
+// Class Furniture Implementing the houseentity interface
 class Furniture implements Serializable, HouseEntity {
     /**
      *
