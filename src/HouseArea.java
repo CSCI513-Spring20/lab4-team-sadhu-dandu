@@ -1,7 +1,7 @@
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
-
+// Class HouseArea implenting the interfaces serializable and houseentity
 class HouseArea implements Serializable, HouseEntity {
 
 
