@@ -1,3 +1,4 @@
+// Class FurnitureFactory extending the HouseFactory
 public class FurnitureFactory extends HouseFactory{
     public HouseEntity create(String item)
     {
